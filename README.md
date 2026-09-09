@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-![Last.fm recently played](https://lastfm-widget.letizia-mancini3.workers.dev/svg?user=llevtizia&count=3&radius=12&stats=compact&footer=wave&loved=between-all)
 
-<!--
 **llevtizia/llevtizia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![Last.fm recently played](https://lastfm-widget.letizia-mancini3.workers.dev/svg?user=llevtizia&count=3&radius=12&stats=compact&footer=wave&loved=between-all)
 
+<!--
 -->
