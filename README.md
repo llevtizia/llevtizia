@@ -1,6 +1,6 @@
 <h2> Hi there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100"></h2>
 
-![Last.fm recently played](https://lastfm-widget.letizia-mancini3.workers.dev/svg?user=llevtizia&count=3&radius=12&stats=compact&footer=wave&loved=between-all)
+
 
 <!--
 **llevtizia/llevtizia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-
+![Last.fm recently played](https://lastfm-widget.letizia-mancini3.workers.dev/svg?user=llevtizia&count=3&radius=12&stats=compact&footer=wave&loved=between-all)
 
 
 <h2> Hi there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
